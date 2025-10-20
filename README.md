@@ -19,23 +19,23 @@ groom-mission-WebServiceBasic/
 │   │   │       └── example
 │   │   │           └── SpringPremier
 │   │   │               ├── SpringPremierApplication.java
-│   │   │               ├── controller                      #웹 요청 처리용 컨트롤러 클래스
+│   │   │               ├── controller  #웹 요청 처리용 컨트롤러 클래스
 │   │   │               │   └── WebController.java
-│   │   │               └── service                         #비즈니스 로직 처리용 서비스 클래스
+│   │   │               └── service #비즈니스 로직 처리용 서비스 클래스
 │   │   │                   └── SampleService.java
 │   │   └── resources
 │   │       ├── application.properties
-│   │       ├── static                                  #CSS, JS, 이미지 등 정적 리소스
+│   │       ├── static #CSS, JS, 이미지 등 정적 리소스
 │   │       │   ├── css
 │   │       │   │   └── style.css
 │   │       │   └── js
 │   │       │       └── script.js
-│   │       └── templates                               #Mustache 템플릿 파일
+│   │       └── templates #Mustache 템플릿 파일
 │   │           ├── index.mustache
 │   │           ├── layout.mustache
-│   │           └── fragments                           #재사용 가능한 머스테치 부분 템플릿
+│   │           └── fragments #재사용 가능한 머스테치 부분 템플릿
 │   │               └── header.mustache
-│   └── test                                            #JUnit 기반 테스트 코드
+│   └── test #JUnit 기반 테스트 코드
 ├── build.gradle
 ├── gradlew
 ├── gradlew.bat
