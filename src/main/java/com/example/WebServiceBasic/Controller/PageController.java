@@ -37,7 +37,6 @@ public class PageController {
         return "contactus";
     }
 
-
     @GetMapping("/login")
     public String login(){
         return "login";
