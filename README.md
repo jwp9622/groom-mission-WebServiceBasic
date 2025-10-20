@@ -10,6 +10,7 @@ Spring boot 3.4.5
 Mustache Template
 
 ## 디렉토리 구조
+```
 groom-mission-WebServiceBasic/
 ├── src
 │   ├── main
@@ -43,3 +44,4 @@ groom-mission-WebServiceBasic/
 ├── .gitattributes
 ├── README.md
 ├── 미션-웹기초.txt
+```
