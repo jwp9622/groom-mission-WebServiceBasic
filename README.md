@@ -5,9 +5,9 @@
 3) HTML 기본 태그를 사용하여 웹 페이지 구조 만들기
 
 ## 기술 스택
-Java 17
-Spring boot 3.4.5
-Mustache Template
+- Java 17
+- Spring boot 3.4.5
+- Mustache Template
 
 ## 디렉토리 구조
 ```
